@@ -1,0 +1,17 @@
+* {
+marign: 0px;
+padding: 0px;
+}
+
+#index{
+    background-color: LightGray;
+}
+
+#newsletter{
+    background-color: #F5F5DC;
+}
+
+
+#about{
+    background-color: #FAEBD7;
+}
