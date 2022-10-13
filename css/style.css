@@ -3,6 +3,7 @@ marign: 0px;
 padding: 0px;
 }
 
+
 #index{
     background-color: LightGray;
 }
@@ -15,3 +16,108 @@ padding: 0px;
 #about{
     background-color: #FAEBD7;
 }
+
+
+.nahore a{
+display: inline-block;
+border: 2px solid black;
+color: black;
+text-decoration: none;
+padding: 5px;
+float: right;
+margin: 10px;
+}
+
+.nahore a:hover{
+text-decoration: underline;
+background-color: white;
+}
+
+
+.nahore h1{
+text-align: center;
+text-decoration: underline;
+margin: 50px;
+}
+
+.telo table, th, td {
+        border:1px solid black;
+        margin: 20px;
+        margin-left: 150px;
+        padding: 20px;
+        background-color: white;
+              }
+
+
+.telo img{
+float: right;
+margin-right: 150px;
+margin-top: 50px;
+}
+
+
+.telo p{
+display: block;
+width: 200px;
+margin-left: 150px;
+padding: 20px;
+
+}
+
+.telo{
+background-color: #8FBC8F;
+}
+
+
+.nahore2 h1{
+text-align: center;
+text-decoration: underline;
+margin: 50px;
+}
+
+.flex-container{
+ background-color: LightGray;
+ display: flex;
+
+
+}
+
+.flex-container > div{
+border: 2px solid black;
+width: 100%;
+height: 300px;
+margin: 50px;
+border-radius: 10px;
+text-align: center;
+}
+
+
+.nahore3 h1{
+text-align: center;
+text-decoration: underline;
+margin: 50px;
+}
+
+.grid-container{
+ background-color: LightGray;
+ display: flex;
+
+
+}
+
+.grid-container > div{
+border: 2px solid black;
+width: 100%;
+height: 200px;
+margin: 50px;
+border-radius: 10px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
